@@ -1,14 +1,8 @@
-<p>
 <img 
         src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png"
         width="50" 
 />
-
-<img
-        src="https://res.cloudinary.com/practicaldev/image/fetch/s--SZSKOtw0--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://d33wubrfki0l68.cloudfront.net/c8827c80d7162a7eeb8a071d9a0c884e3a105a36/a2b46/blog/selenium-python/header_selenium_python.png"
-        style="width: 50; margin-top: -15; margin-bottom: -15;"
-/>
-</p>
+        
 # Export/Import Selenium Session to another computer
 
 This repository contains Python scripts for **exporting any Selenium session**  and **import this session** back, on another  Selenium WebDriver instance.
