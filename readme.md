@@ -23,7 +23,7 @@ from session_exporter import export_session
 # Use export_session(driver) to save the session data
 export_session(driver)
 
-# ... [Continue with your code] ...
+# ... [Your code] ...
 ```
 
 2. Run `export.py` or `[your_script].py`.
