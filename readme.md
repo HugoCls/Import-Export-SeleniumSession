@@ -37,4 +37,4 @@ export_session(driver)
 
 ### License
 
-This repository is under [MIT License](https://github.com/HugoCls/Import-Export-SeleniumSession/blob/main/LICENCE).
+This repository is under [MIT License](https://github.com/HugoCls/Import-Export-SeleniumSession/blob/main/LICENCE), please check it out before using.
