@@ -1,7 +1,7 @@
 # Export/Import Selenium Session to another computer
 
 This repository contains Python scripts for **exporting any Selenium session**  and **import this session** back, on another  Selenium WebDriver instance.
----
+
 ## Usage
 ### Installation
 1. Clone the repository:
