@@ -5,17 +5,17 @@ This repository contains Python scripts for **exporting any Selenium session**  
 ## Usage
 ### Installation
 1. Clone the repository:
-```bash
+```shell
 git clone https://github.com/HugoCls/Import-Export-SeleniumSession
 ```
 2. Install dependencies:
-```bash
+```shell
 pip install -r requirements.txt
 ```
 
 ### Export a Session
 1. You can either import the export_session() function into your code or modify export.py file.
-```
+```python
 from export import export_session
 
 # ... [Your code] ...
