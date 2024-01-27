@@ -1,5 +1,5 @@
 # Export/Import Selenium Session to another computer
-
+[logo](https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png)
 This repository contains Python scripts for **exporting any Selenium session**  and **import this session** back, on another  Selenium WebDriver instance.
 
 ## Usage
@@ -20,7 +20,6 @@ from session_exporter import export_session
 
 # ... [Your code] ...
 
-# Use export_session(driver) to save the session data
 export_session(driver)
 
 # ... [Your code] ...
