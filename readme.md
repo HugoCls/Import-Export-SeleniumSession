@@ -16,7 +16,7 @@ pip install -r requirements.txt
 ### Export a Session
 1. You can either import the export_session() function into your code or modify export.py file.
 ```python
-from export import export_session
+from session_exporter import export_session
 
 # ... [Your code] ...
 
